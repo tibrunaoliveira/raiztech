@@ -1,0 +1,8 @@
+package com.raiztech.raiztech_api.repository;
+
+import com.raiztech.raiztech_api.entity.LeituraSensor;
+import org.springframework.data.jpa.repository.JpaRepository;
+
+public interface LeituraSensorRepository extends JpaRepository<LeituraSensor, Long> {
+
+}
