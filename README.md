@@ -1,4 +1,4 @@
-# 🌱 RaizTech API
+# 🌱 IrrigaTech API
 
 Sistema IoT para monitoramento e irrigação inteligente de plantas utilizando Java Spring Boot e MySQL.
 
